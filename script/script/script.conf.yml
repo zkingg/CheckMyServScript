@@ -1,5 +1,5 @@
 CONF :
-  NbProcessus : 2
+  NbProcessus : 10
   Run: off
 MySQL:
   Host: localhost
